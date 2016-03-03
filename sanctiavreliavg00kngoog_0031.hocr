@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctiavreliavg00kngoog_0031.png"; bbox 0 0 3172 4800; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 112 1456 1282 1594">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 112 1456 1282 1594">
+     <span class='ocr_line' id='line_1_1' title="bbox 112 1456 1282 1594; baseline 0.012 -17"><span class='ocrx_word' id='word_1_1' title='bbox 112 1572 115 1577; x_wconf 85' lang='grc'>,</span> <span class='ocrx_word' id='word_1_2' title='bbox 411 1456 461 1589; x_wconf 73' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 509 1458 804 1592; x_wconf 81' lang='lat' dir='ltr'>AVRELI</span> <span class='ocrx_word' id='word_1_4' title='bbox 855 1458 1282 1594; x_wconf 78' lang='lat' dir='ltr'>AVGVSTINI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 266 2100 1435 2311">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 266 2100 1435 2311">
+     <span class='ocr_line' id='line_1_2' title="bbox 266 2100 1435 2311; baseline 0.003 -5"><span class='ocrx_word' id='word_1_5' title='bbox 266 2100 1435 2311; x_wconf 69' lang='lat' dir='ltr'><strong>RETRAOTATIONVM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1590 4800">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1590 4800">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1590 4800; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1590 4800; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
